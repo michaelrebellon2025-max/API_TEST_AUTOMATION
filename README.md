@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Automation Testing with PyTest 🚀
 
 ![PyTest](https://img.shields.io/badge/tests-passing-brightgreen)  
@@ -38,3 +39,6 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
 pytest -v
+=======
+# API_TEST_AUTOMATION
+>>>>>>> 263b29d (first commit)
