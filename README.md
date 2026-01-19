@@ -8,7 +8,9 @@ Validates multiple users and deeply nested JSON fields in the **JSONPlaceholder 
 
 ## 📸 Video Demo
 
-[![Tests Running](assets/video_placeholder.png)](assets/tests_running.mp4)
+## 📸 Demo Video
+
+![API Test Running](assets/API_TEST_video.gif)
 
 
 ## 🔹 Key Highlights
