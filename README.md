@@ -6,7 +6,7 @@
 A professional API automation test suite demonstrating **scalable QA automation** using Python and PyTest. 
 Validates multiple users and deeply nested JSON fields in the **JSONPlaceholder Users API**.
 
-## 📸 Video Demo
+
 
 ## 📸 Demo Video
 
